@@ -1,1 +1,1 @@
-web: python skilaverkefni_6.py
+web: python skilaverk_6.py
