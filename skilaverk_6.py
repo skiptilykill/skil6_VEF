@@ -1,4 +1,5 @@
 from bottle import route, run, template, static_file, error, request
+import os
 
 @route('/')
 def index():
@@ -37,4 +38,4 @@ def order():
 @route('/static/<filename>')
 def server_static(filename):
     return static_file(filename, root ='./myfiles')
-run()
+run(host='0.0.0.0',port=os.environ.get('PORT'))
