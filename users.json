@@ -1,0 +1,29 @@
+{
+    "users": [
+        {
+            "email": "qwe@wqe.qwe",
+            "username": "QWeqwe",
+            "pwd": "Qwe123"
+        },
+        {
+            "email": "email@email.cin",
+            "username": "Amma",
+            "pwd": "Gamla1"
+        },
+        {
+            "email": "Email@ww.is",
+            "username": "USer",
+            "pwd": "Password1"
+        },
+        {
+            "email": "",
+            "username": "",
+            "pwd": ""
+        },
+        {
+            "email": "ellefu@gmail.com",
+            "username": "User",
+            "pwd": "Pass1"
+        }
+    ]
+}
