@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css?family=Rammetto+One');
+body{
+    font-family: 'Rammetto One', cursive;
+    text-align: center;
+}
+input{
+    text-decoration: none;
+    color: blue;
+    transition: all 0.2s linear;
+    font-size: 1em;
+    border-radius: 20px;
+
+}
+input:hover {
+    background-color: lightgreen;
+    color: red;
+}

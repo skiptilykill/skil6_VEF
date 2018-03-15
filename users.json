@@ -24,6 +24,11 @@
             "email": "ellefu@gmail.com",
             "username": "User",
             "pwd": "Pass1"
+        },
+        {
+            "email": "Gumsi@gumsi.is",
+            "username": "Gumsi",
+            "pwd": "Gumsi1"
         }
     ]
 }

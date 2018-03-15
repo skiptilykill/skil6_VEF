@@ -3,7 +3,7 @@
     <head>
         <meta charset="utf-8" />
         <title>Pizza</title>
-        <link rel="stylesheet" href="/static/styles.css">
+        <link rel="stylesheet" href="/static/stylesA.css">
         <link href="/static/favicon.ico" rel="icon" type="image/x-icon" />
     </head>
 <body>
@@ -35,7 +35,7 @@
 			<label>Pepperoni: <input type="checkbox" name="pepperoni"></label>
 			<label>Skinka: <input type="checkbox" name="skinka"></label>
 			<label>Ananas: <input type="checkbox" name="ananas"></label><br>
-				<input type="submit" value="Panta!" required><br>
+				<input class="test" type="submit" value="Panta!" required><br>
 	</form>
 </div>
 </body>

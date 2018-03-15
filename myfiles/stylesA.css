@@ -1,0 +1,62 @@
+@import url('https://fonts.googleapis.com/css?family=Ubuntu');
+@import url('https://fonts.googleapis.com/css?family=Coiny');
+body{
+    font-family: 'Coiny', cursive;
+    background: linear-gradient(to right, #ff4e50, #f9d423);
+    transform: scale(0.96);
+
+}
+.background{
+    background-image: url("/static/Pizzab.jpg");
+    background-repeat: no-repeat;
+    background-position-x: center;
+    background-position-y: bottom;
+    background-attachment: scroll;
+    background-size: cover;
+    border-radius: 225px;
+}
+form{
+    text-align: center;
+    margin-bottom: -47px;
+    padding: 10px;
+    background-color: rgba(0, 0, 0, 0.5);
+    border-radius: 225px;
+    box-shadow:inset 8px 8px 10px 0px rgba(0,0,0,0.8);
+    color: #fffa8a;
+}
+
+input, select {
+    text-align: center;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 30px;
+    box-sizing: border-box;
+}
+input[type=submit] {
+    width: 30%;
+    background-color: #fffa8a;
+    color: black;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    border-radius: 30px;
+    cursor: pointer;
+    transition: all 0.3s linear;
+}
+input[type=submit]:hover {
+    width: 70%;
+    background-color: rgb(150,50,50);
+    color: black;
+    padding: 18px 250px;
+    margin: 8px 0;
+    border: none;
+    border-radius: 30px;
+    cursor: pointer;
+}
+
+
+
+
+

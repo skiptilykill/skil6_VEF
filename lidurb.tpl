@@ -5,12 +5,14 @@
     <meta name="viewport"
           content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link href="/static/favicon.ico" rel="icon" type="image/x-icon" />
+    <link rel="stylesheet" href="/static/stylesB.css">
     <title>Liður b</title>
 </head>
 <body>
 
     <form action="/new_user" method="POST">
-        <label>Email:</label>
+        <label>Email: </label>
         <input type="email" name="email" placeholder="Email" pattern="\w+@\w+\.\w+">
         <br>
         <label>Username:</label>
