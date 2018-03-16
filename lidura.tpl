@@ -7,7 +7,7 @@
         <link href="/static/favicon.ico" rel="icon" type="image/x-icon" />
     </head>
 <body>
-<div class="background">
+<div class="background" style="background-image: url("/static/Pizzab.jpg");">
 	<form action="/order" method="GET">
 
 	<h1>Upplýsingar</h1>
